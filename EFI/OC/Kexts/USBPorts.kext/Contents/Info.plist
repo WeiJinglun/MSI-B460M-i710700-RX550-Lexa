@@ -85,6 +85,17 @@
 						AwAAAA==
 						</data>
 					</dict>
+					<key>HS04</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>name</key>
+						<string>HS04</string>
+						<key>port</key>
+						<data>
+						BAAAAA==
+						</data>
+					</dict>
 					<key>HS05</key>
 					<dict>
 						<key>UsbConnector</key>
@@ -109,10 +120,8 @@
 					</dict>
 					<key>HS07</key>
 					<dict>
-						<key>Comment</key>
-						<string>蓝牙</string>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>0</integer>
 						<key>name</key>
 						<string>HS07</string>
 						<key>port</key>
@@ -120,12 +129,21 @@
 						BwAAAA==
 						</data>
 					</dict>
+					<key>HS08</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>name</key>
+						<string>HS08</string>
+						<key>port</key>
+						<data>
+						CAAAAA==
+						</data>
+					</dict>
 					<key>HS09</key>
 					<dict>
-						<key>Comment</key>
-						<string>后一排内</string>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>255</integer>
 						<key>name</key>
 						<string>HS09</string>
 						<key>port</key>
@@ -135,8 +153,6 @@
 					</dict>
 					<key>HS10</key>
 					<dict>
-						<key>Comment</key>
-						<string>后一排外</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -146,21 +162,19 @@
 						CgAAAA==
 						</data>
 					</dict>
-					<key>HS11</key>
+					<key>HS12</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>255</integer>
 						<key>name</key>
-						<string>HS11</string>
+						<string>HS12</string>
 						<key>port</key>
 						<data>
-						CwAAAA==
+						DAAAAA==
 						</data>
 					</dict>
 					<key>SS01</key>
 					<dict>
-						<key>Comment</key>
-						<string>后三排外 3.0</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -172,8 +186,6 @@
 					</dict>
 					<key>SS02</key>
 					<dict>
-						<key>Comment</key>
-						<string>后三排内 3.0</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -183,38 +195,12 @@
 						EgAAAA==
 						</data>
 					</dict>
-					<key>SS03</key>
-					<dict>
-						<key>Comment</key>
-						<string>后二排内 3.0</string>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>name</key>
-						<string>SS03</string>
-						<key>port</key>
-						<data>
-						EwAAAA==
-						</data>
-					</dict>
-					<key>SS04</key>
-					<dict>
-						<key>Comment</key>
-						<string>后 TypeC</string>
-						<key>UsbConnector</key>
-						<integer>9</integer>
-						<key>name</key>
-						<string>SS04</string>
-						<key>port</key>
-						<data>
-						FAAAAA==
-						</data>
-					</dict>
 					<key>SS05</key>
 					<dict>
 						<key>Comment</key>
-						<string>前 3.0</string>
+						<string>TypeC</string>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>9</integer>
 						<key>name</key>
 						<string>SS05</string>
 						<key>port</key>
@@ -224,8 +210,6 @@
 					</dict>
 					<key>SS06</key>
 					<dict>
-						<key>Comment</key>
-						<string>前 3.0</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
